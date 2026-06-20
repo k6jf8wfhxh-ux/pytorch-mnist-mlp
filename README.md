@@ -1,1 +1,1 @@
-# pytorch-mnist-mlp
+# pytorch-cifar10-mlp
